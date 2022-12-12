@@ -1,4 +1,4 @@
-console.log("Smacznej kawusi!")
+console.log("Smacznej kawusi!ten kod jest juz w repozytorium git")
 
 let navigationButton = document.querySelector(".js-navigationButton");
 let header = document.querySelector(".header");
